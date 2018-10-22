@@ -1,2 +1,2 @@
 # traincms
-A very professional Training Cms for every type of school
+A very professional video oline system for every type of school
